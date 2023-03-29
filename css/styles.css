@@ -105,7 +105,7 @@ article {
   justify-content: center;
 }
 .top_section {
-  background-image: url(/HTML_CSS_IN_DEPTH/Lucky-Shrub/Lucky-Shrub-logos/landscape-banner.jpg);
+  background-image: url(../Lucky-Shrub-logos/landscape-banner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
